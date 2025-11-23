@@ -11,7 +11,7 @@ To write a python program to find the inverse of a matrix
 ### Step 4: Print the inverse of the matrix. 
 
 ## Program:
-```
+```py
 
 import numpy as np
 A=np.array([[6,2,3],
